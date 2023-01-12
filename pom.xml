@@ -6,7 +6,7 @@
 
 	<groupId>cloud.bangover</groupId>
 	<artifactId>bangover-commons-module</artifactId>
-	<version>0.0.1-SNAPHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<modules>
@@ -19,7 +19,7 @@
 		<repository>
 			<id>bangover</id>
 			<name>Bangover repository</name>
-			<url>https://maven.pkg.github.com/bincloud-io/bce</url>
+			<url>https://maven.pkg.github.com/bangover/bangover-platform</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
@@ -30,7 +30,7 @@
 		<repository>
 			<id>bangover</id>
 			<name>Bangover repository</name>
-			<url>https://maven.pkg.github.com/bincloud-io/bce</url>
+			<url>https://maven.pkg.github.com/bangover/bangover-platform</url>
 		</repository>
 	</distributionManagement>
 

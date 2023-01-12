@@ -7,7 +7,7 @@
 	<parent>
 		<groupId>cloud.bangover</groupId>
 		<artifactId>bangover-commons-module</artifactId>
-		<version>0.0.1-SNAPHOT</version>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>bangover-commons-testkit</artifactId>
@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>cloud.bangover</groupId>
 			<artifactId>bangover-commons</artifactId>
-			<version>0.0.1-SNAPHOT</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
